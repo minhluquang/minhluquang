@@ -296,8 +296,8 @@ def build_banner():
         ("Core.Database", "MySQL, PostgreSQL, SQL Server"),
         ("Core.Infra", "Docker"),
         ("", ""),
-        ("Grid.Mail", "minhlq2911@gmail.com"),
-        ("Grid.Portfolio", "luquangminh.dev"),
+        ("Grid.Mail", "luminh2004@gmail.com"),
+        ("Grid.Portfolio", "minhlq.dev"),
         ("Grid.LinkedIn", "linkedin.com/in/minhluquang"),
         ("Grid.GitHub", "github.com/minhluquang"),
         ("Grid.Facebook", "facebook.com/minhluquang")

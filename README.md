@@ -40,11 +40,11 @@
     <img src="https://img.shields.io/badge/Facebook-0A101F?style=for-the-badge&logo=facebook&logoColor=1877F2&labelColor=0A101F" alt="Facebook" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:minhlq2911@gmail.com">
+  <a href="mailto:luminh2004@gmail.com">
     <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://luquangminh.dev">
+  <a href="https://minhlq.dev">
     <img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=googlechrome&logoColor=22D3EE&labelColor=0A101F" alt="Portfolio" />
   </a>
 </div>

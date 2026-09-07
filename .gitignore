@@ -1,0 +1,7 @@
+# Preview & Scratch Files
+*.pdf
+cropped_test.png
+dither_*_preview.png
+preview.html
+avatar_nobg.png
+__pycache__/
